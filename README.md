@@ -81,7 +81,7 @@ I'm always open to collaborating on cybersecurity projects, mentorship opportuni
 ## 📫 How to Reach Me  
 - LinkedIn: [Sedric Louissaint](https://www.linkedin.com/in/sedric-louissaint/)
 - Instagram: [@showupshowout](https://www.instagram.com/showupshowout/)  
-- Twitter: [@SedricLouissaint](https://twitter.com/sedric____)  
+- Twitter: [@Sedric____](https://twitter.com/sedric____)  
 - Email: help@susos.co
 - Youtube: [@showupshowout](https://www.youtube.com/@showupshowout)  
 

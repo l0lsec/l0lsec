@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Sedric Louissaint  
-🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor | Professional MMA Fighter**
+🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor | Author | Speaker | Educator | Cybersecurity Thought Leader | Professional MMA Fighter**
 
 ---
 

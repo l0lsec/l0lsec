@@ -33,7 +33,7 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 ---
 
 ### Programming Languages:  
-- Python, PowerShell, Bash, JavaScript  
+- Python, PowerShell, Bash, JavaScript, PHP, C#, Ruby  
 
 ### Cybersecurity Skills:  
 - Penetration Testing (Web / Mobile / APIs / Cloud / Network)

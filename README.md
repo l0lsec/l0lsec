@@ -32,8 +32,6 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 
 ---
 
-## 🛠️ My Toolbox  
-
 ### Programming Languages:  
 - Python, PowerShell, Bash, JavaScript  
 

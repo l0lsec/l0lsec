@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Sedric Louissaint  
-🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor**
+🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor | Professional MMA Fighter**
 
 ---
 
@@ -81,7 +81,8 @@ I'm always open to collaborating on cybersecurity projects, mentorship opportuni
 - LinkedIn: [Sedric Louissaint](https://www.linkedin.com/in/sedric-louissaint/)
 - Instagram: [@showupshowout](https://www.instagram.com/showupshowout/)  
 - Twitter: [@SedricLouissaint](https://twitter.com/sedric____)  
-- Email: help@susos.co  
+- Email: help@susos.co
+- Youtube: [@showupshowout](https://www.youtube.com/@showupshowout)  
 
 ---
 

@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
 
 ### 🔑 Key Highlights:
-- Founder of **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring professionals.
+- Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.
+  - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
 - Reported **100+ zero-day vulnerabilities**, contributing to the security of various organizations.
 - Holder of **10 CVEs** and counting, showcasing a commitment to responsible disclosure.
 - Led and executed **hundreds of security engagements**, including red team and blue team operations.

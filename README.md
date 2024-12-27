@@ -37,10 +37,25 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 - Python, PowerShell, Bash, JavaScript  
 
 ### Cybersecurity Skills:  
-- Penetration Testing (External, Internal, Zero Trust)  
-- Vulnerability Management (Wiz, Nessus, Qualys)  
+- Penetration Testing (Web / Mobile / APIs / Cloud / Network)
+- Vulnerability Management
 - Security Automation & Orchestration  
-- Threat Hunting & Incident Response  
+- Threat Hunting & Incident Response
+- Network Architecture & Security
+- Web Application Security
+- Mobile Application Security (Android / iOS)
+- Digital Forensics
+- API Security
+- IoT Security
+- Cloud Security (Azure / GCP / AWS)
+- Governance, Risk, and Compliance
+- Incident Response
+- Disaster Recovery Planning
+- Reverse Engineering (Web / Mobile / APIs / Malware)
+- Secure System Design and Software Development
+- Threat Modeling
+- AI LLM Security
+- Binary Security
 
 ### Certifications:  
 - Certifications: Security+, CySA+, PenTest+, Cloud+, Network+, CCNA, CISSP, CASP+

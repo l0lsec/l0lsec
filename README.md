@@ -26,7 +26,7 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 - Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.
   - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
 - Reported **100+ zero-day vulnerabilities**, contributing to the security of various organizations.
-- Holder of **10 CVEs** and counting, showcasing a commitment to responsible disclosure.
+- Holder of **15+ CVEs** and counting, showcasing a commitment to responsible disclosure.
 - Led and executed **hundreds of security engagements**, including red team and blue team operations.
 - Experienced in building custom tools, applications, and integrations for security orchestration and automation.
 
@@ -46,7 +46,7 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 - Digital Forensics
 - API Security
 - IoT Security
-- Cloud Security (Azure / GCP / AWS)
+- Cloud Security (Azure / GCP / AWS /vSphere)
 - Governance, Risk, and Compliance
 - Incident Response
 - Disaster Recovery Planning

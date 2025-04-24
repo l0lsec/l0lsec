@@ -48,7 +48,6 @@ With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**
 - IoT Security
 - Cloud Security (Azure / GCP / AWS /vSphere)
 - Governance, Risk, and Compliance
-- Incident Response
 - Disaster Recovery Planning
 - Reverse Engineering (Web / Mobile / APIs / Malware)
 - Secure System Design and Software Development

@@ -85,6 +85,6 @@ I'm always open to collaborating on cybersecurity projects, mentorship opportuni
 ---
 
 ## 📝 Fun Facts  
-- I'm a Brazilian Jiu-Jitsu purple belt(soon to be brown) and mixed martial artist who’s embracing the art of perseverance.  
+- I'm a Jiu-Jitsu brown belt(soon to be black :) and mixed martial artist who’s embracing the art of perseverance.  
 - I enjoy mentoring and building a community of future cybersecurity leaders.  
 - My mission: To show up, show out, and empower others to do the same!

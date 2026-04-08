@@ -1,18 +1,3 @@
-<!--
-**l0lsec/l0lsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Sedric Louissaint  
 🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor | Author | Speaker | Educator | Cybersecurity Thought Leader | Professional MMA Fighter**
 
@@ -20,7 +5,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-With over 10 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
+With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
 
 ### 🔑 Key Highlights:
 - Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.

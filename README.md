@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sedric Louissaint  
-🌟 **Cybersecurity Subject Matter Expert | Penetration Testing Director | Mentor | Author | Speaker | Educator | Cybersecurity Thought Leader | Professional MMA Fighter**
+🌟 **Founder of iVenza | Director of Penetration Testing, CLA Cybersecurity Consulting | Cybersecurity Subject Matter Expert | Mentor | Author | Speaker | Educator | Professional MMA Fighter**
+
+🔗 [sedric.co](https://sedric.co) · [LinkedIn](https://www.linkedin.com/in/sedric-louissaint/) · [iVenza](https://ivenza.app) · [SUSO Security](https://www.susos.co)
 
 ---
 
@@ -7,7 +9,11 @@
 
 With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
 
+Today I wear two hats: I'm **Director of Penetration Testing in CLA's (CliftonLarsonAllen) Cybersecurity Consulting practice**, where I lead offensive security engagements for organizations of every size, and I'm the **founder and builder of [iVenza](https://ivenza.app)**, an all-sport training and gym-management platform. I break software for a living and build it on nights and weekends.
+
 ### 🔑 Key Highlights:
+- **Director of Penetration Testing** in the Cybersecurity Consulting practice at **CLA (CliftonLarsonAllen)**.
+- Founder of **[iVenza](https://ivenza.app)** - the athlete and gym platform I designed, built, and ship solo.
 - Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.
   - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
 - Reported **100+ zero-day vulnerabilities**, contributing to the security of various organizations.
@@ -17,8 +23,24 @@ With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**
 
 ---
 
+## 🥋 iVenza - what I'm building
+
+**[iVenza](https://ivenza.app)** is an offline-first training and gym-management platform for **every sport** - combat sports, team and ball sports, endurance, strength, and individual athletes - plus the coaches, gyms, schools, and promotions who train them.
+
+It grew out of my own training. I wanted the technique I drilled on Tuesday, the round I lost on Saturday, and the weight I cut in between to live in one place that I owned. So I built it.
+
+**For athletes:** a technique and skill library, training and strength sessions, runs with GPS, nutrition and weight, sleep and recovery, film review with timestamped coach notes, competitions and camps, and progress you actually own and can export.
+
+**For coaches, gyms, and schools:** roster and attendance, class scheduling and reservations, memberships and billing, digital waivers, payments and point of sale, lesson plans, analytics, and athlete communication.
+
+**Built to work where athletes actually are:** it runs offline. Local SQLite is the runtime store and it syncs when signal comes back, because mats, fields, and weight rooms have terrible reception.
+
+**Stack:** React Native / Expo (iOS + Android), TypeScript, SQLite, Supabase (Postgres, RLS, edge functions), Stripe. Written from the inside, by someone who competes.
+
+---
+
 ### Programming / Scripting Languages:  
-- Python, PowerShell, Bash, JavaScript, PHP, C#, Ruby  
+- Python, PowerShell, Bash, JavaScript, TypeScript, PHP, C#, Ruby  
 
 ### Cybersecurity Skills:  
 - Penetration Testing (Web / Mobile / APIs / Cloud / Network)
@@ -46,8 +68,19 @@ With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**
 
 ---
 
+## 🛡️ Work with me and my team at CLA
+
+Need a **penetration test**, a **red team**, an **application or cloud security review**, or a security program built from the ground up? I lead penetration testing for **CLA's Cybersecurity Consulting practice**, and my team works with organizations of every size.
+
+### 👉 [**Book a cyber consultation with me**](https://outlook.office.com/bookwithme/user/82683ee44e3a492db1e6cff26032f437@claconnect.com/meetingtype/mfxhpOZDsUOegyzYjS_YOA2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile)
+
+Bring a scope, a deadline, or just a question.
+
+---
+
 ## 💡 Projects I'm Passionate About  
 
+- **[iVenza](https://ivenza.app):** an offline-first, all-sport platform for athletes, coaches, gyms, and schools - built solo, end to end.
 - **Cybersecurity Mentorship and Training Program (CMTP):** Helping individuals transition into cybersecurity with hands-on training and career coaching.  
 - **Automation Tools for Security Orchestration:** Developing scripts and platforms that simplify repetitive tasks and improve efficiency in vulnerability management.  
 - **Zero-Day Research:** Continuous exploration of vulnerabilities in enterprise systems and IoT devices.  
@@ -61,7 +94,10 @@ I'm always open to collaborating on cybersecurity projects, mentorship opportuni
 ---
 
 ## 📫 How to Reach Me  
+- Website: [sedric.co](https://sedric.co)
 - LinkedIn: [Sedric Louissaint](https://www.linkedin.com/in/sedric-louissaint/)
+- iVenza: [ivenza.app](https://ivenza.app)
+- Book a cyber consultation: [CLA Cybersecurity Consulting](https://outlook.office.com/bookwithme/user/82683ee44e3a492db1e6cff26032f437@claconnect.com/meetingtype/mfxhpOZDsUOegyzYjS_YOA2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile)
 - Instagram: [@showupshowout](https://www.instagram.com/showupshowout/)  
 - Twitter: [@Sedric____](https://twitter.com/sedric____)  
 - Email: help@susos.co
@@ -70,6 +106,7 @@ I'm always open to collaborating on cybersecurity projects, mentorship opportuni
 ---
 
 ## 📝 Fun Facts  
-- I'm a Jiu-Jitsu brown belt(soon to be black :) and mixed martial artist who’s embracing the art of perseverance.  
+- I'm a Jiu-Jitsu brown belt(soon to be black :) and mixed martial artist who's embracing the art of perseverance.  
 - I enjoy mentoring and building a community of future cybersecurity leaders.  
+- I build [iVenza](https://ivenza.app) the way I train: from the inside.
 - My mission: To show up, show out, and empower others to do the same!

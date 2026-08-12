@@ -17,7 +17,7 @@ With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**
 
 ---
 
-### Programming Languages:  
+### Programming / Scripting Languages:  
 - Python, PowerShell, Bash, JavaScript, PHP, C#, Ruby  
 
 ### Cybersecurity Skills:  

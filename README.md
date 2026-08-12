@@ -9,17 +9,17 @@
 
 With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
 
-Today I wear two hats: I'm **Director of Penetration Testing in CLA's (CliftonLarsonAllen) Cybersecurity Consulting practice**, where I lead offensive security engagements for organizations of every size, and I'm the **founder and builder of [iVenza](https://ivenza.app)**, an all-sport training and gym-management platform. I break software for a living and build it on nights and weekends.
+Today I wear two hats: I'm **Director of Penetration Testing in CLA's (CliftonLarsonAllen) Cybersecurity Consulting practice**, where I lead the team that breaks into companies' systems on purpose to find the weak spots before criminals do, and I'm the **founder and builder of [iVenza](https://ivenza.app)**, an all-sport training and gym-management platform. I break software for a living and build it on nights and weekends.
 
 ### 🔑 Key Highlights:
 - **Director of Penetration Testing** in the Cybersecurity Consulting practice at **CLA (CliftonLarsonAllen)**.
 - Founder of **[iVenza](https://ivenza.app)** - the athlete and gym platform I designed, built, and ship solo.
 - Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.
   - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
-- Reported **100+ zero-day vulnerabilities**, contributing to the security of various organizations.
-- Holder of **15+ CVEs** and counting, showcasing a commitment to responsible disclosure.
-- Led and executed **hundreds of security engagements**, including red team and blue team operations.
-- Experienced in building custom tools, applications, and integrations for security orchestration and automation.
+- Found **100+ security flaws nobody knew about** in real, shipping products, and reported every one of them so they could be fixed before attackers got there first.
+- Publicly credited for **15+ of those findings** in the official record the security industry keeps of known vulnerabilities.
+- Led **hundreds of security projects** - both attacking systems to prove where they break, and defending them.
+- Build custom tools and integrations that automate the repetitive parts of security work.
 
 ---
 
@@ -70,7 +70,9 @@ It grew out of my own training. I wanted the technique I drilled on Tuesday, the
 
 ## 🛡️ Work with me and my team at CLA
 
-Need a **penetration test**, a **red team**, an **application or cloud security review**, or a security program built from the ground up? I lead penetration testing for **CLA's Cybersecurity Consulting practice**, and my team works with organizations of every size.
+Want to know where your systems break before someone else finds out? That is the job. My team and I get hired to attack an organization the way a real attacker would - its apps, its cloud, its network, its people - and then hand over exactly what we found and how to fix it. We also build security programs from scratch for companies that do not have one yet.
+
+I lead penetration testing for **CLA's Cybersecurity Consulting practice**, and we work with organizations of every size.
 
 ### 👉 [**Book a cyber consultation with me**](https://outlook.office.com/bookwithme/user/82683ee44e3a492db1e6cff26032f437@claconnect.com/meetingtype/mfxhpOZDsUOegyzYjS_YOA2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile)
 

@@ -7,19 +7,17 @@
 
 ## 🚀 About Me  
 
-With over 12 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
+With over 13 years of hands-on experience in **cybersecurity**, **IT solutions**, and **project management**, I specialize in designing and implementing security programs from the ground up. My passion lies in bridging the gap between technical expertise and strategic goals, empowering organizations to achieve robust, scalable, and automated security solutions.  
 
-Today I wear two hats: I'm **Director of Penetration Testing in CLA's (CliftonLarsonAllen) Cybersecurity Consulting practice**, where I lead the team that breaks into companies' systems on purpose to find the weak spots before criminals do, and I'm the **founder and builder of [iVenza](https://ivenza.app)**, an all-sport training and gym-management platform. I break software for a living and build it on nights and weekends.
+Today I wear two hats: I'm **Director of Penetration Testing in CLA's (CliftonLarsonAllen) Cybersecurity Consulting practice**, where I lead the team that breaks into companies' systems on purpose to find the weak spots before criminals do, and I'm the **founder and developer of [iVenza](https://ivenza.app)**, an all-sport training and gym-management platform. I break software for a living and build it on nights and weekends.
 
 ### 🔑 Key Highlights:
 - **Director of Penetration Testing** in the Cybersecurity Consulting practice at **CLA (CliftonLarsonAllen)**.
-- Founder of **[iVenza](https://ivenza.app)** - the athlete and gym platform I designed, built, and ship solo.
-- Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals.
-  - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
-- Found **100+ security flaws nobody knew about** in real, shipping products, and reported every one of them so they could be fixed before attackers got there first.
-- Publicly credited for **15+ of those findings** in the official record the security industry keeps of known vulnerabilities.
-- Led **hundreds of security projects** - both attacking systems to prove where they break, and defending them.
-- Build custom tools and integrations that automate the repetitive parts of security work.
+- Founder of **[iVenza](https://ivenza.app)** - iVenza means "I conquer." The name is a promise to the people who use it: every athlete deserves one connected record of their athletic life - skills, training, strength, nutrition, weight, recovery, and competitions - instead of five disconnected apps and a notebook. And every coach, club, team, school, and gym deserves tools that put the athlete first instead of admin-first software that bills the owner and ignores the roster. So iVenza is built for both sides at once, on one loop: the athlete logs, the coach sees, the coach acts, the athlete performs. It works for every sport from day one - combat sports, ball and team sports, endurance, and strength - it works offline, it speaks English, Spanish, and Portuguese, and your data stays yours: you choose what to share, category by category, and you can export everything whenever you want.
+- Founder of Show Up Show Out Security's **Cybersecurity Mentorship and Training Program (CMTP)**, a platform to empower aspiring and practicing professionals. Our mission is to give aspiring cybersecurity professionals the guidance, skills, and knowledge to succeed in a field that is notoriously hard to enter, through personalized mentorship, a real career plan, hands-on training, and a community that does not disappear when the course ends. - [Show Up Show Out Security - Cybersecurity Mentorship and Training Program (CMTP)](https://www.susos.co)  
+- Found **100+ security flaws nobody knew about** in real, shipping products, and reported every one of them so they could be fixed before attackers got there first. Publicly credited for **15+ of those findings** in the official record the security industry keeps of known vulnerabilities (CVEs).
+- Led security projects, both attacking systems to prove where they break, and defending them.
+- Building software that serves the world for the better
 
 ---
 
@@ -35,7 +33,6 @@ It grew out of my own training. I wanted the technique I drilled on Tuesday, the
 
 **Built to work where athletes actually are:** it runs offline. Local SQLite is the runtime store and it syncs when signal comes back, because mats, fields, and weight rooms have terrible reception.
 
-**Stack:** React Native / Expo (iOS + Android), TypeScript, SQLite, Supabase (Postgres, RLS, edge functions), Stripe. Written from the inside, by someone who competes.
 
 ---
 
@@ -70,9 +67,9 @@ It grew out of my own training. I wanted the technique I drilled on Tuesday, the
 
 ## 🛡️ Work with me and my team at CLA
 
-Want to know where your systems break before someone else finds out? That is the job. My team and I get hired to attack an organization the way a real attacker would - its apps, its cloud, its network, its people - and then hand over exactly what we found and how to fix it. We also build security programs from scratch for companies that do not have one yet.
+Want to know where your systems break before someone else finds out? That is the job. My team and I get hired to attack an organization the way a real attacker would - its apps, its cloud, its network, its people - and then hand over exactly what we found and how to fix it.
 
-I lead penetration testing for **CLA's Cybersecurity Consulting practice**, and we work with organizations of every size.
+We work with organizations of every size.
 
 ### 👉 [**Book a cyber consultation with me**](https://outlook.office.com/bookwithme/user/82683ee44e3a492db1e6cff26032f437@claconnect.com/meetingtype/mfxhpOZDsUOegyzYjS_YOA2?anonymous&ismsaljsauthenabled&ep=mLinkFromTile)
 

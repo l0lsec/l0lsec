@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sedric Louissaint  
-🌟 **Founder of iVenza | Director of Penetration Testing, CLA Cybersecurity Consulting | Cybersecurity Subject Matter Expert | Mentor | Author | Speaker | Educator | Professional MMA Fighter**
+🌟 **Founder of iVenza | Penetration Tester | Cybersecurity Consultant | Mentor | Speaker | Educator | Professional Mixed Martial Artist**
 
 🔗 [sedric.co](https://sedric.co) · [LinkedIn](https://www.linkedin.com/in/sedric-louissaint/) · [iVenza](https://ivenza.app) · [SUSO Security](https://www.susos.co)
 
